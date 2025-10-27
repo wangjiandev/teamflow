@@ -28,7 +28,8 @@
       "recommended": true,
       "suspicious": {
         "noUnknownAtRules": "off",
-        "noAssignInExpressions": "off"
+        "noAssignInExpressions": "off",
+        "noArrayIndexKey": "off"
       },
       "performance": {
         "noNamespaceImport": "off",
